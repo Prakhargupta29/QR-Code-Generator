@@ -4,6 +4,7 @@ Overview
 This script creates a GUI-based QR Code Generator using Python. Users can input any text or URL,
 and the application generates a QR code for that input. The QR code is displayed within the
 interface and automatically saved with a unique filename in the current directory.
+
 Dependencies
 ------------
 - tkinter: For GUI creation
